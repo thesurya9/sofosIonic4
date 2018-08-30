@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <widget version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+  
+  <feature name="NativePageTransitions">
+    <param name="android-package" value="com.telerik.plugins.nativepagetransitions.NativePageTransitions"/>
+    <param name="onload" value="true"/>
+  </feature>
+
+
+  <feature name="FingerprintAuth">
+    <param name="android-package" value="com.cordova.plugin.android.fingerprintauth.FingerprintAuth"/>
+  </feature>
+
+
+  <feature name="Permissions">
+    <param name="android-package" value="com.android.plugins.Permissions"/>
+  </feature>
+
+
+  <feature name="Badge">
+    <param name="android-package" value="de.appplant.cordova.plugin.badge.Badge"/>
+  </feature>
+
+
+  <feature name="Camera">
+    <param name="android-package" value="org.apache.cordova.camera.CameraLauncher"/>
+  </feature>
+
+
+  <feature name="Device">
+    <param name="android-package" value="org.apache.cordova.device.Device"/>
+  </feature>
+
+
+  <feature name="File">
+    <param name="android-package" value="org.apache.cordova.file.FileUtils"/>
+    <param name="onload" value="true"/>
+  </feature>
+
+
+  <feature name="FileOpener2">
+    <param name="android-package" value="io.github.pwlin.cordova.plugins.fileopener2.FileOpener2"/>
+  </feature>
+
+
+  <feature name="FileTransfer">
+    <param name="android-package" value="org.apache.cordova.filetransfer.FileTransfer"/>
+  </feature>
+
+
+  <feature name="FileChooser">
+    <param name="android-package" value="com.megster.cordova.FileChooser"/>
+  </feature>
+
+
+  <feature name="Fingerprint">
+    <param name="android-package" value="de.niklasmerz.cordova.fingerprint.Fingerprint"/>
+  </feature>
+
+
+  <feature name="InAppBrowser">
+    <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser"/>
+  </feature>
+
+
+  <feature name="TouchID">
+    <param name="android-package" value="com.cordova.plugin.android.fingerprintauth.FingerprintAuth"/>
+  </feature>
+
+
+  <feature name="LocalNotification">
+    <param name="android-package" value="de.appplant.cordova.plugin.localnotification.LocalNotification"/>
+  </feature>
+
+
+  <feature name="PhotoLibrary">
+    <param name="android-package" value="com.terikon.cordova.photolibrary.PhotoLibrary"/>
+    <param name="onload" value="true"/>
+  </feature>
+
+
+  <feature name="CDVOrientation">
+    <param name="android-package" value="cordova.plugins.screenorientation.CDVOrientation"/>
+  </feature>
+
+
+  <feature name="DeviceFeedback">
+    <param name="android-package" value="cz.Velda.cordova.plugin.devicefeedback.DeviceFeedback"/>
+    <param name="onload" value="true"/>
+  </feature>
+
+
+  <feature name="SQLitePlugin">
+    <param name="android-package" value="io.sqlc.SQLitePlugin"/>
+  </feature>
+
+  </widget>
